@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @melaniecardenas104
 - 👀 I’m interested in software development, data analysis, data query, data analytics.
-- 🌱 I’m currently learning JAVA, SQL, Spring Framework.
+- 🌱 I’m currently learning JAVA, Python, SQL, Spring Framework.
 - 💞️ I’m looking to collaborate
 
 Hello, there! Welcome to my github project page. This is my first year working on JAVA based projects like: data visualization, web and app management, and much more! I've been working hard on my customizable neural network project to dive deeper into machine learning and data visualization. At first, the program was pretty straightforward - it created and trained a neural network using the Keras library on a synthetic dataset for binary classification. It also evaluated the model on a test dataset and visualized the decision boundary. 
